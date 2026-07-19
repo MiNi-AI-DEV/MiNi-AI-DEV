@@ -28,6 +28,7 @@ spec:
     - Cloud-Native Architecture
     - Event-Driven Systems
     - Generative AI Integration
+
 ```
 
 ##☕ About Me
